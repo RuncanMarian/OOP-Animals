@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP homework animals", "OOP homework\OOP homework animals.csproj", "{A1B6571B-3C8E-4B93-9D30-2D692CC359A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1B6571B-3C8E-4B93-9D30-2D692CC359A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B6571B-3C8E-4B93-9D30-2D692CC359A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B6571B-3C8E-4B93-9D30-2D692CC359A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B6571B-3C8E-4B93-9D30-2D692CC359A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15E5BE9A-B566-4554-BF99-3A5357B90345}
+	EndGlobalSection
+EndGlobal
